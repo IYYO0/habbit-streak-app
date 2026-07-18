@@ -1,3 +1,3 @@
 function hello() {
-  alert("Hello Im alert box!");
+  confirm("Are you real person?");
 }
